@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTMjItWWFuZzExLjI3IiwNCiAgImFkZCI6ICIxOTguNDYuMTMxLjI1MyIsDQogICJwb3J0IjogIjUzNjM2IiwNCiAgImlkIjogImYzY2FlZGE3LTkwNGUtNGJkYS1jOWM3LTI3ZjNjNWQ5MjA1MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTMjItWWFuZzExLjI3IiwNCiAgImFkZCI6ICIxMTQuNjYuNjMuMjEyIiwNCiAgInBvcnQiOiAiMTMzODkiLA0KICAiaWQiOiAiZjNjYWVkYTctOTA0ZS00YmRhLWM5YzctMjdmM2M1ZDkyMDUxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 # 专线
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?encryption=none&security=none&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=%2F#%E7%BE%8E%E5%9B%BD%28%20%E6%9B%B4%E5%A4%9A%E7%A6%8F%E5%88%A9%E8%AF%B7%E6%90%9Chttps%3A%2F%2Ft.me%2Fanzhuoapk
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?encryption=none&security=none&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=%2Fvless-ws%2F%40Azarbayjab1%40Azarbayjab1%40Azarbayja1%3Fed%3D2560#US_%20%E6%9B%B4%E5%A4%9A%E7%A6%8F%E5%88%A9%E8%AF%B7%E6%90%9Chttps%3A%2F%2Ft.me%2Fanzhuoapk_64
