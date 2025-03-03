@@ -17,9 +17,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTMjItWWFuZzExLjI3IiwNCiAgImFkZCI6ICIx
 # 专线
 https://yg.vdns.us.kg/trojan/pty
 https://cm.vdns.us.kg/7879d86c-a9d1-4e74-92a7-862165aae6d7
-# https://fn1.feiniaoyun13.life/api/v1/client/subscribe?token=d3728261b284d35811e5a095a9d713cf
+https://fn1.feiniaoyun13.life/api/v1/client/subscribe?token=d3728261b284d35811e5a095a9d713cf
+https://wub.zongyunti.site/api/v1/client/subscribe?token=cbee6199cb1272f1c130ba642ec27cfc
 # 定制节点&飞鸟云&梯云纵
-# https://wub.zongyunti.site/api/v1/client/subscribe?token=cbee6199cb1272f1c130ba642ec27cfc
 `
 
 let urls = [];
